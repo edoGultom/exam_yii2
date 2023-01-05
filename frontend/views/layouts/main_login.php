@@ -32,7 +32,7 @@ AppAsset::register($this);
     <section class="content">
         <?= $content ?>
         <footer class="footer">
-            <span>Copyright &copy; 2022 APP PASIEN</span>
+            <span>Copyright &copy; 2022</span>
         </footer>
     </section>
     <?php $this->endBody() ?>

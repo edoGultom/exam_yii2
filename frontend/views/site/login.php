@@ -17,7 +17,7 @@ $password =  json_encode(substr(strrchr(get_class($model), '\\'), 1) . '[passwor
 <div class="d-flex flex-wrap align-items-stretch">
     <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
         <div class="p-4 m-3">
-            <img src="/img/logo.png" alt="logo" width="350" class="shadow-light rounded mb-5 mt-2">
+            <img src="/img/stisla-fill.svg" alt="logo" width="80" class="shadow-light rounded mb-5 mt-2">
             <h4 class="text-dark font-weight-normal">Welcomes to <span class="font-weight-bold">App</span></h4>
             <p class="text-muted">Sebelum kamu memulai, kamu harus login atau register ijika kamu belum mempunyai akun.
             </p>
@@ -70,11 +70,11 @@ $password =  json_encode(substr(strrchr(get_class($model), '\\'), 1) . '[passwor
         </div>
     </div>
     <div class="col-lg-8 col-12 order-lg-2 order-1 min-vh-100 position-relative overlay-gradient-bottom"
-        data-background="/img/unsplash/login-bg2.jpeg">
+        data-background="/img/unsplash/login-bg.jpg">
         <div class="absolute-bottom-left index-2">
             <div class="text-light p-5 pb-2">
                 <div class="mb-5 pb-3">
-                    <h1 class="mb-2 display-4 font-weight-bold">E - Monev Unit Gizi</h1>
+                    <h1 class="mb-2 display-4 font-weight-bold">Exam YII2</h1>
                     <h5 class="font-weight-normal text-muted-transparent">
                 </div>
 

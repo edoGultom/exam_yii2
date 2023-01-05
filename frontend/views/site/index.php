@@ -23,8 +23,8 @@ use yii\helpers\Url;
                 <h2>Welcome, <?= Yii::$app->user->identity->username ?>!</h2>
                 <p class="lead">You almost arrived, complete the information about your patient .</p>
                 <div class="mt-4">
-                    <a href="<?= Url::to(['./pasien']); ?>" class="btn btn-outline-white btn-lg btn-icon icon-left"><i
-                            class="far fa-user"></i>
+                    <a href="<?= Url::to(['./data-master']); ?>"
+                        class="btn btn-outline-white btn-lg btn-icon icon-left"><i class="far fa-user"></i>
                         Next </a>
                 </div>
             </div>

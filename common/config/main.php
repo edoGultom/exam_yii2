@@ -17,6 +17,8 @@ return [
         'pengguna' => [
             'class' => 'common\components\Pengguna',
         ],
+
+
     ],
     'modules' => [
         'gii' => [
